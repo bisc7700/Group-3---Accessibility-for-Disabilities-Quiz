@@ -1,1 +1,0 @@
-This interactive quiz/game is designed to enhance awareness and understanding of effective accessibility practices for individuals with physical disabilities. By playing, users will learn how to make environments more inclusive through real-world scenarios and thoughtful decision-making. 
